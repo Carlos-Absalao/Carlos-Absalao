@@ -16,6 +16,7 @@ Com um perfil analítico e uma abordagem prática, busco unir minha experiência
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Apps Script](https://img.shields.io/badge/Apps_Script-34A853?style=for-the-badge&logo=google&logoColor=white)  
 
 🔗 **Conecte-se comigo:**  
 - [LinkedIn](www.linkedin.com/in/carlos-absalão)  
