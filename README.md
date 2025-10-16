@@ -1,12 +1,12 @@
-# Olá, eu sou [Seu Nome] 👋  
+# Olá, eu sou [Carlos Absalão] 👋  
 
-Sou um profissional com 18 anos de experiência consolidada em Tecnologia da Informação e Comunicação (TIC), com especialização em análise e governança de dados. Ao longo da minha trajetória, desenvolvi uma sólida expertise em infraestrutura e segurança da informação, além de atuar de forma destacada em projetos complexos voltados para o gerenciamento e uso estratégico de dados.
+Sou um profissional com 18 anos de experiência consolidada em Tecnologia da Informação e Comunicação (TIC), com especialização em Ciência e Governança de dados. Ao longo da minha trajetória, desenvolvi uma sólida expertise em infraestrutura e segurança da informação, além de atuar de forma destacada em projetos complexos voltados para o gerenciamento e uso estratégico de dados.
 
 📌 **Minhas competências incluem:**  
-- Aplicação de frameworks como ITIL e COBIT, atuando como avaliador e auditor de processos de TIC para promover melhorias e alinhar estratégias organizacionais.  
 - Domínio de consultas SQL e programação em Python para análise, extração e manipulação de dados.  
-- Especialização no uso de ferramentas como Power BI, Looker Studio e Apps Script para geração de insights e suporte à tomada de decisões.  
-- Experiência na criação de dashboards avançados e resolução de problemas complexos em infraestrutura e segurança da informação.  
+- Especialização e experiência no uso de ferramentas como Power BI, Looker Studio e Apps Script para geração de insights e suporte à tomada de decisões.  
+- Experiência em infraestrutura e segurança da informação.
+- Aplicação de frameworks como ITIL e COBIT, atuando como avaliador e auditor de processos de TIC para promover melhorias e alinhar estratégias organizacionais. 
 
 💡 **Meu diferencial:**  
 Com um perfil analítico e uma abordagem prática, busco unir minha experiência técnica à visão estratégica, contribuindo para o sucesso e a evolução das organizações em que atuo.  
@@ -15,10 +15,15 @@ Com um perfil analítico e uma abordagem prática, busco unir minha experiência
 
 ## **Experiência Profissional**  
 
+### Join Creative Tech  
+**Prestação de Serviço:** Secretaria Executiva de Transformação Digital do Estado de Pernambuco  
+**Função:** Analista de Dados e BI Sênior  
+**Período:** *Jan/2025 - Atualmente*  
+
 ### Ibrowser Consultoria e Informática Ltda.  
 **Prestação de Serviço:** Secretaria de Educação do Estado de Pernambuco  
 **Função:** Analista de Governança de Dados Sênior  
-**Período:** *Jul/2024 - Atualmente*  
+**Período:** *Jul/2024 - Dez/2024*  
 
 ### G4F Soluções Corporativas  
 **Prestação de Serviço:** Secretaria de Educação do Estado de Pernambuco  
