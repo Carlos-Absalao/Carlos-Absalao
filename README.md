@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Carlos Absalão 👋</h1>
+<h1 align="center">Olá, eu sou o Carlos Absalão </h1>
 <h3 align="center">Engenheiro de Dados e IA · Pipelines, Analytics e GenAI aplicados ao setor público</h3>
 
 <p align="center">
