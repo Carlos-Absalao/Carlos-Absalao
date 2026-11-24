@@ -1,8 +1,9 @@
-<h1 align="center">Olá, eu sou o Carlos Absalão </h1>
+<h1 align="center">Olá, eu sou o Carlos Absalão 👋</h1>
 <h3 align="center">Engenheiro de Dados e IA · Pipelines, Analytics e GenAI aplicados ao setor público</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-absalao-dados-ia"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Absalão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:choabsalao@gmail.com"><img src="https://img.shields.io/badge/E--mail-choabsalao%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Carlos-Absalao/curriculo"><img src="https://img.shields.io/badge/Currículo-Ver-1F2937?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
 
@@ -15,7 +16,8 @@
 - 🔧 Construo pipelines de dados em produção (Airflow + PostgreSQL + Docker), modelos analíticos em camadas (Raw → Processed → Trusted → Gold) e painéis de monitoramento em Power BI
 - 🤖 Aplico IA generativa a problemas reais: RAG sobre documentos, automações com n8n e IA rodando no navegador
 - 🛡️ Base sólida em **infraestrutura e segurança da informação**, com atuação como avaliador e auditor de processos de TIC (**ITIL, COBIT**)
-- 🎓 Palestrante: workshop *Inteligência Artificial na Web com Web AI* — Faculdade Nova Roma (2026)
+- 🎓 **6 pós-graduações**: IA Aplicada (em andamento), Ciência de Dados (MBA), Governança e Auditoria de TI, Gestão de Projetos (MBA – UFPE), Qualidade em TIC e Segurança da Informação
+- 🎤 Palestrante: workshop *Inteligência Artificial na Web com Web AI* — Faculdade Nova Roma (2026)
 - 🌎 *English: I read and understand technical English comfortably.*
 
 ## 🛠️ Stack
