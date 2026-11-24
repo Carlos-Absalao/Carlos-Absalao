@@ -1,71 +1,79 @@
-# Olá, eu sou [Carlos Absalão] 👋  
+<h1 align="center">Olá, eu sou o Carlos Absalão 👋</h1>
+<h3 align="center">Engenheiro de Dados e IA · Pipelines, Analytics e GenAI aplicados ao setor público</h3>
 
-Sou um profissional com 18 anos de experiência consolidada em Tecnologia da Informação e Comunicação (TIC), com especialização em Ciência e Governança de dados. Ao longo da minha trajetória, desenvolvi uma sólida expertise em infraestrutura e segurança da informação, além de atuar de forma destacada em projetos complexos voltados para o gerenciamento e uso estratégico de dados.
-
-📌 **Minhas competências incluem:**  
-- Domínio de consultas SQL e programação em Python para análise, extração e manipulação de dados.  
-- Especialização e experiência no uso de ferramentas como Power BI, Looker Studio e Apps Script para geração de insights e suporte à tomada de decisões.  
-- Experiência em infraestrutura e segurança da informação.
-- Aplicação de frameworks como ITIL e COBIT, atuando como avaliador e auditor de processos de TIC para promover melhorias e alinhar estratégias organizacionais. 
-
-💡 **Meu diferencial:**  
-Com um perfil analítico e uma abordagem prática, busco unir minha experiência técnica à visão estratégica, contribuindo para o sucesso e a evolução das organizações em que atuo.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-absalao-dados-ia"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Absalão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Carlos-Absalao/curriculo"><img src="https://img.shields.io/badge/Currículo-Ver-1F2937?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+</p>
 
 ---
 
-## **Experiência Profissional**  
+## 🧭 Sobre mim
 
-### Join Creative Tech  
-**Prestação de Serviço:** Secretaria Executiva de Transformação Digital do Estado de Pernambuco  
-**Função:** Analista de Dados e BI Sênior  
-**Período:** *Jan/2025 - Atualmente*  
+- 💼 **18 anos em TI**, sendo **5+ anos dedicados a dados** e **1+ ano em IA generativa** (LLMs, RAG, agentes)
+- 🏛️ Atuo em transformação digital no **Governo de Pernambuco**, num portfólio de ~20 projetos de software
+- 🔧 Construo pipelines de dados em produção (Airflow + PostgreSQL + Docker), modelos analíticos em camadas (Raw → Processed → Trusted → Gold) e painéis de monitoramento em Power BI
+- 🤖 Aplico IA generativa a problemas reais: RAG sobre documentos, automações com n8n e IA rodando no navegador
+- 🛡️ Base sólida em **infraestrutura e segurança da informação**, com atuação como avaliador e auditor de processos de TIC (**ITIL, COBIT**)
+- 🎓 Palestrante: workshop *Inteligência Artificial na Web com Web AI* — Faculdade Nova Roma (2026)
+- 🌎 *English: I read and understand technical English comfortably.*
 
-### Ibrowser Consultoria e Informática Ltda.  
-**Prestação de Serviço:** Secretaria de Educação do Estado de Pernambuco  
-**Função:** Analista de Governança de Dados Sênior  
-**Período:** *Jul/2024 - Dez/2024*  
+## 🛠️ Stack
 
-### G4F Soluções Corporativas  
-**Prestação de Serviço:** Secretaria de Educação do Estado de Pernambuco  
-**Função:** Analista de Governança de TIC e Dados  
-**Período:** *Jan/2024 – Jul/2024*  
+**Dados & Engenharia**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
-### Datainfo Soluções Tecnologia da Informação Ltda.  
-**Prestação de Serviço:** Secretaria de Educação do Estado de Pernambuco  
-- **Função:** Analista de Projetos/Dados – *Dez/2022 – Dez/2023*  
-- **Função:** Analista de Gestão de Serviços de TIC – *Jun/2022 – Nov/2022*  
+**IA & Automação**
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visão%20Computacional-0F766E?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
-### Central IT Tecnologia & Negócio  
-**Prestação de Serviço:** Palácio da Governadoria do Estado de Pernambuco  
-**Função:** Analista de Infraestrutura de Sistemas N3  
-**Período:** *Nov/2021 – Jun/2022*  
+**Visualização & Gestão**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PMBOK%207-334155?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ITIL-475569?style=flat-square"/>
+  <img src="https://img.shields.io/badge/COBIT-475569?style=flat-square"/>
+</p>
 
-### Grupo Nordel  
-**Função:** Analista de TI Sênior  
-**Período:** *Jul/2020 – Ago/2021*  
+## 🚀 Projetos em destaque
 
-### Exército Brasileiro  
-**Função:** Sargento Técnico Temporário – Chefe de Seção de Informática  
-**Período:** *Jul/2017 – Mar/2020*  
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [**pipeline-etl-airflow-compras-publicas**](https://github.com/Carlos-Absalao/pipeline-etl-airflow-compras-publicas) | Pipeline ETL diário de atas de registro de preço com arquitetura em camadas (Raw → Gold) | Airflow · PostgreSQL · Docker · Python |
+| [**consolidacao-multibanco-postgres**](https://github.com/Carlos-Absalao/consolidacao-multibanco-postgres) | Consolida N bancos com a mesma estrutura (um por município) numa base analítica única para Power BI | Python · PostgreSQL · SQL · Power BI |
+| [**rag-assistente-documentos**](https://github.com/Carlos-Absalao/rag-assistente-documentos) | Assistente que responde perguntas sobre documentos com citação das fontes | Python · RAG · ChromaDB · FastAPI · LLMs |
+| [**dbt-medallion-analytics**](https://github.com/Carlos-Absalao/dbt-medallion-analytics) | Modelagem analítica em camadas com testes de qualidade e documentação | dbt · DuckDB/BigQuery · SQL |
+| [**workshop-web-ai**](https://github.com/Carlos-Absalao/workshop-web-ai) | Material e demos do workshop de IA rodando 100% no navegador | JavaScript · Transformers.js |
 
-### Jaraguá Equipamentos Industriais Ltda.  
-**Prestação de Serviço:** Petrobrás Refinaria Abreu e Lima
-**Função:** : Analista de TI Pleno – Chefe de Seção de Informática  
-**Período:** *Jul/2017 – Mar/2020*  
+## 📈 Números do GitHub
 
----
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlos-Absalao&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Absalao&layout=compact&hide_border=true"/>
+</p>
 
-🚀 **Tecnologias e Ferramentas:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Apps Script](https://img.shields.io/badge/Apps_Script-34A853?style=for-the-badge&logo=google&logoColor=white)  
+## 📫 Vamos conversar
 
-
-🔗 **Conecte-se comigo:**  
-- [LinkedIn](www.linkedin.com/in/carlos-absalão)  
-- [E-mail](choabsalao@gmail.com)  
-
-🌟 **Aberto a novos desafios:**  
-Estou sempre em busca de oportunidades que me permitam aplicar meu conhecimento em TIC e dados para gerar impacto positivo e duradouro.  
+Gosto de trocar ideias sobre engenharia de dados, IA aplicada e governo digital. Me chame no [LinkedIn](https://www.linkedin.com/in/carlos-absalao-dados-ia).
